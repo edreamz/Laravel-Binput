@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/binput",
+    "name": "edreamz/binput",
     "description": "Binput Is An Input Protector For Laravel 5",
     "keywords": ["laravel", "framework", "better input", "better", "input", "security", "Binput", "Laravel Binput", "Laravel-Binput", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
@@ -11,10 +11,10 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "illuminate/http": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "graham-campbell/security": "^4.0"
+        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/http": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+        "edreamz/security": "^4.0"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^2.0",
