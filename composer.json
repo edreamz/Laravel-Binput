@@ -1,5 +1,5 @@
 {
-    "name": "edreamz/binput",
+    "name": "graham-campbell/binput",
     "description": "Binput Is An Input Protector For Laravel 5",
     "keywords": ["laravel", "framework", "better input", "better", "input", "security", "Binput", "Laravel Binput", "Laravel-Binput", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
